@@ -49,6 +49,11 @@ h2 {
   font-size: 2rem;
 }
 
+#nav-list a:hover {
+  background-color: #455875;
+  color: #fff;
+}
+
 #subject-1 {
   background-color: #ed8ec9;
   border: 1px solid #b3adae;
