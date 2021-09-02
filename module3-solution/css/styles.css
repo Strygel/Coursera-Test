@@ -10,9 +10,11 @@ body {
   border: 0;
 }
 
-h1 {
+.navbar-brand {
+  font-size: 35px;
   color: #455875;
   font-family: 'Oxygen', sans-serif;
+
 }
 
 h2 {
@@ -24,7 +26,7 @@ h2 {
   font-weight: bold;
 }
 
-.navbar-default .navbar-toggle .icon-bar {
+.navbar-toggle .icon-bar {
     background-color: #fff;
 }
 
